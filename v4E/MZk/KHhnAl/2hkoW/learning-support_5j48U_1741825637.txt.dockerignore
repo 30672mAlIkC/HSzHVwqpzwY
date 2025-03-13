@@ -18,7 +18,6 @@ gradio/templates/frontend/cdn
 .env
 
 # Gradio run artifacts
-*.db
 *.sqlite3
 gradio/launches.json
 gradio/hash_seed.txt
