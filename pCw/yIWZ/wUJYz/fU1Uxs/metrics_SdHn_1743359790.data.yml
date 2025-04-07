@@ -4,7 +4,6 @@
 comment: off
 
 # partial line support
-parsers:
   javascript:
     enable_partials: yes
 
